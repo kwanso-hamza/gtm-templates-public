@@ -2,7 +2,7 @@ homepage: "https://www.simoahava.com/"
 documentation: "https://www.simoahava.com/analytics/create-facebook-pixel-custom-tag-template/"
 versions:
   # Latest version
-  - sha: d7bad4f7a6e39c72dbc72afc7773d7fb8fdc358c
+  - sha: d71293214cad43bea545a02e3ebf8254504b93fc
     changeNotes: Update template metadata.
   # Older versions
   - sha: ff7bf31a0777e22a370d6371607022fe2a6d1b7c

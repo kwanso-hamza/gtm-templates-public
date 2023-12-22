@@ -2,7 +2,7 @@ homepage: "https://kwanso.com/"
 documentation: "https://github.com/kwanso-hamza/gtm-templates-public.git#readme"
 versions:
   # Latest version
-  - sha: 391a05a3a44360c9c87160a1262c6ad78a233f07
+  - sha: 392ff4ed1d2a6924042efb0f7393e3a1d2e071c9
     changeNotes: Update template metadata.
   # Older versions
   - sha: ff7bf31a0777e22a370d6371607022fe2a6d1b7c
